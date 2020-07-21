@@ -1,10 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Rahulgoy/Rahulgoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on data analysis and django web development.
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on anything based on django frameworks, Opencv, deep learning neural networks.
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rahulkugo@gmail.com or www.linkedin.com/in/rahulgoy/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
