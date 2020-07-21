@@ -9,3 +9,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: rahulkugo@gmail.com or www.linkedin.com/in/rahulgoy/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![Rahul's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rahulgoy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
