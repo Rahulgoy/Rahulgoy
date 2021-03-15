@@ -1,14 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Rahul Goyal</h1>
+<h3 align="center">A passionate react + django developer.</h3>
 
-Here are some ideas to get you started:
-- 🔭 I’m currently working on data analysis and django web development.
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on anything based on django frameworks, Opencv, deep learning neural networks.
-- 🤔 I’m looking for help with machine learning and various app deployment processes.
-- 💬 Ask me about anything related to the above mentioned field, I'll try my best to satiate your mind.
-- 📫 How to reach me: rahulkugo@gmail.com or www.linkedin.com/in/rahulgoy/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgoy&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgoy" /> </p>
 
+- 🔭 I’m currently working on **django REST frameworks**
 
-![Rahul's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Rahulgoy&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+- 👯 I’m looking to collaborate on **anything in the field of react and django.**
+
+- 🤝 I’m looking for help with **in learning blockchain mechanism**
+
+- 💬 Ask me about **React, Django, AWS**
+
+- 📫 How to reach me **rahulkumargoyal00@gmail.com**
+
+- ⚡ Fun fact **Python was NOT named after a snake.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rahulgoy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahulgoy" height="30" width="40" /></a>
+<a href="https://instagram.com/rahulkugo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="rahulkugo" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulgoy&show_icons=true&theme=dracula&locale=en&layout=compact" alt="rahulgoy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rahulgoy&show_icons=true&theme=dracula&locale=en&count_private=true" alt="rahulgoy" /></p>
