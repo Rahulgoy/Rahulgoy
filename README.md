@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulgoy&label=Profile%20views&color=0e75b6&style=flat" alt="rahulgoy" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/101577/screenshots/4875999/true_astronaut_dribbble-bg.gif">
 
-- 🔭 I’m currently working on **django REST frameworks**
+- 🔭 I’m currently working on **Image Processing**
 
 - 👯 I’m looking to collaborate on **anything in the field of react and django.**
 
