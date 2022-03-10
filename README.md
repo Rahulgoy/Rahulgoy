@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rahulgoy" target="blank"><img align="center" src="./linkedin-icon-2.svg" alt="rahulgoy" height="30" width="40" /></a>
-<a href="https://instagram.com/rahulkugo" target="blank"><img align="center" src="./instagram-2016-6.svg" alt="rahulkugo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rahulgoy" target="blank"><img align="center" src="./linkedin-icon-2.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="mailto:rahulkumargoyal00@gmail.com" target="blank"><img align="center" src="./gmail.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
