@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **anything in the field of react and django.**
 
-- 🤝 I’m looking for help with **in learning blockchain mechanism**
+- 🤝 I’m looking for help with **in learning blockchain mechanism**.
 
 - 💬 Ask me about **React, Django, AWS, Image Processing**
 
