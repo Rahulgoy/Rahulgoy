@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **in learning blockchain mechanism**.
 
-- 💬 Ask me about **React, Django, AWS, Image Processing**
+- 💬 Ask me about **React, Django, AWS, Image Processing**.
 
 - 📫 How to reach me **rahulkumargoyal00@gmail.com**
 
